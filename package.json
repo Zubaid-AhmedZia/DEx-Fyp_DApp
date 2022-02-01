@@ -1,0 +1,30 @@
+{
+  "name": "dex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "resolutions": {
+    "colors": "1.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jklepatch/eattheblocks.git#master"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jklepatch/eattheblocks/issues"
+  },
+  "homepage": "https://github.com/jklepatch/eattheblocks/tree/master#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1",
+    "@openzeppelin/test-helpers": "^0.5.15"
+  }
+}
